@@ -1,0 +1,30 @@
+#Boy {
+  width : 250px;
+  height: 300px;
+  bottom: 10px;
+  position: absolute;
+}
+
+body {
+  background-color: #f0f0d6;
+}
+
+#cactus {
+  width : 150px;
+  height: 200px;
+  bottom: 10px;
+  left: 1300px;
+  position: absolute;
+}
+
+button {
+  height: 30px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #59605f;
+}
